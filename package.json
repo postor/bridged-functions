@@ -4,7 +4,8 @@
   "description": "Type-safe function overrides with defaults, built on a single EventEmitter3 instance.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build":"tsc",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
