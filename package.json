@@ -1,0 +1,20 @@
+{
+  "name": "bridged-functions",
+  "version": "1.0.0",
+  "description": "Type-safe function overrides with defaults, built on a single EventEmitter3 instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eventemitter3": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
